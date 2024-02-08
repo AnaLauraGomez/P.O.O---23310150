@@ -1,0 +1,15 @@
+C:\Users\agome\Documents\programasVS\bin\Debug\net6.0\programasVS.exe
+C:\Users\agome\Documents\programasVS\bin\Debug\net6.0\programasVS.deps.json
+C:\Users\agome\Documents\programasVS\bin\Debug\net6.0\programasVS.runtimeconfig.json
+C:\Users\agome\Documents\programasVS\bin\Debug\net6.0\programasVS.dll
+C:\Users\agome\Documents\programasVS\bin\Debug\net6.0\programasVS.pdb
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.csproj.AssemblyReference.cache
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.AssemblyInfoInputs.cache
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.AssemblyInfo.cs
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.csproj.CoreCompileInputs.cache
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.dll
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\refint\programasVS.dll
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.pdb
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\programasVS.genruntimeconfig.cache
+C:\Users\agome\Documents\programasVS\obj\Debug\net6.0\ref\programasVS.dll
